@@ -297,16 +297,12 @@ For complete API documentation, visit `/api/docs/` after starting the server.
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 ## 🙏 Acknowledgments
 
 - **Spring School AI4Impact** for organizing the hackathon
-- **ENSAM Casablanca** for institutional support
 - **Open-source community** for amazing tools and libraries
 
 ---
