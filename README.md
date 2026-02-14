@@ -10,7 +10,7 @@
 [![Django](https://img.shields.io/badge/Django-REST-092E20?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange?style=flat-square)](https://xgboost.ai/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+
 
 *Transforming IT support operations with AI-driven automation*
 
