@@ -20,7 +20,7 @@
 
 ---
 
-### 📱 Scan to Learn More
+### 📱Learn More
 
 
 https://incidai.vercel.app/
