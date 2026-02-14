@@ -1,4 +1,4 @@
-# IncidAi 🚀
+# IncidAi 
 
 <div align="center">
 
@@ -22,11 +22,10 @@
 
 ### 📱 Scan to Learn More
 
-<img src="https://raw.githubusercontent.com/[YOUR-USERNAME]/[YOUR-REPO]/main/assets/qr-code.png" width="200" alt="QR Code"/>
 
 https://incidai.vercel.app/
 
-</div>
+
 
 ---
 
