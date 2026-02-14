@@ -309,9 +309,9 @@ For complete API documentation, visit `/api/docs/` after starting the server.
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/[YOUR-USERNAME]/incidai](https://github.com/AgorAI-Hackathon/IncidAI))
+- **Project Link**: https://github.com/AgorAI-Hackathon/IncidAI
 - **Email**: chaimaekaz05@gmail.com
-- **LinkedIn**: [Connect with us]((https://www.linkedin.com/in/chaimae-kazoury-040715238/))
+- **LinkedIn**: https://www.linkedin.com/in/chaimae-kazoury-040715238/
 
 ---
 
