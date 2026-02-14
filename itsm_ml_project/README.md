@@ -663,13 +663,7 @@ If you use this project in your research or work, please cite:
 
 ---
 
-## 📧 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Email**: your.email@example.com
-- **Documentation**: [Wiki](https://github.com/your-repo/wiki)
-
----
 
 ## ⭐ Acknowledgments
 
