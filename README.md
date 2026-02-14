@@ -321,8 +321,5 @@ For complete API documentation, visit `/api/docs/` after starting the server.
 
 **Made with ❤️ by Neuralx Team**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=incidai.incidai)
-![GitHub Stars](https://img.shields.io/github/stars/[YOUR-USERNAME]/incidai?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/[YOUR-USERNAME]/incidai?style=social)
 
 </div>
