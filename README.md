@@ -24,7 +24,7 @@
 
 <img src="https://raw.githubusercontent.com/[YOUR-USERNAME]/[YOUR-REPO]/main/assets/qr-code.png" width="200" alt="QR Code"/>
 
-*Scan the QR code to access the full documentation and demo*
+https://incidai.vercel.app/
 
 </div>
 
@@ -123,7 +123,6 @@ IT support teams face **overwhelming inefficiencies** in managing incident ticke
 |--------|--------|----------|--------|
 | **Accuracy** | >90% | 89.3% | ⚠️ Near Target |
 | **Response Time** | <2s | 187ms | ✅ Exceeded |
-| **Auto-Resolution** | >70% | 73% | ✅ Exceeded |
 | **Cost Reduction** | - | 82% | ✅ Outstanding |
 
 ### 📈 Model Comparison
@@ -272,24 +271,17 @@ For complete API documentation, visit `/api/docs/` after starting the server.
 | 💰 **Cost Savings** | 82% reduction per ticket |
 | ⏱️ **Resolution Time** | 85% faster (hours → minutes) |
 | 📈 **Accuracy** | +17 points (72% → 89%) |
-| 🎯 **Auto-Close Rate** | 73% of tickets |
 
-### ROI Calculator
 
-For a company processing **1,000 tickets/month**:
-- **Time Saved**: ~250 hours/month
-- **Cost Saved**: ~$20,000/month
-- **ROI**: 300%+ in first year
 
----
 
 ## 👥 Team
 
 **Neuralx** @ ENSAM Casablanca
 
-- **Kazoury Chaimae** - ML Engineer & Backend Developer
-- **Fatima-Ezzahra Lagdem** - Full-Stack Developer
-- **Lina Benlakhbaizi** - AI Researcher & Data Scientist
+- **Kazoury Chaimae** 
+- **Fatima-Ezzahra Lagdem** 
+- **Lina Benlakhbaizi**
 
 **Built for AI4Impact Hackathon 2026** 🏆
 
@@ -322,9 +314,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/[YOUR-USERNAME]/incidai](https://github.com/[YOUR-USERNAME]/incidai)
-- **Email**: contact@neuralx.ai
-- **LinkedIn**: [Connect with us](https://linkedin.com/company/neuralx)
+- **Project Link**: [https://github.com/[YOUR-USERNAME]/incidai]([https://github.com/[YOUR-USERNAME]/incidai](https://github.com/AgorAI-Hackathon/IncidAI))
+- **Email**: chaimaekaz05@gmail.com
+- **LinkedIn**: [Connect with us]((https://www.linkedin.com/in/chaimae-kazoury-040715238/))
 
 ---
 
