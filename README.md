@@ -233,7 +233,7 @@ python scripts/api_server.py
 
 # Option 2: Using Uvicorn directly
 uvicorn src.api_server:app --reload --host 0.0.0.0 --port 8000
-
+```
 ---
 
 
