@@ -156,7 +156,7 @@ Manual         █████████████        72%
 ```bash
 # Clone the repository
 git clone https://github.com/[YOUR-USERNAME]/incidai.git
-cd incidai
+cd backend
 
 # Create virtual environment
 python -m venv venv
@@ -199,7 +199,42 @@ npm run dev
 - Admin Panel: http://localhost:8000/admin
 
 ---
+# IncidAI ML Server (`itsm_ml_project`)
 
+This folder contains the machine learning model server built with **FastAPI**, which handles ITSM ticket classification, embeddings, and semantic search. It runs independently from the Django backend and can be accessed via API calls.
+
+---
+
+## Prerequisites
+
+- Python 3.9+
+- pip
+- Optional: virtual environment tool (`venv`)
+
+---
+
+## Setup
+
+1. **Navigate to the project folder**
+
+```bash
+cd itsm_ml_project
+# Linux / macOS
+python -m venv venv
+source venv/bin/activate
+
+# Windows
+python -m venv venv
+venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
+# Option 1: Using the provided script
+python scripts/api_server.py
+
+# Option 2: Using Uvicorn directly
+uvicorn src.api_server:app --reload --host 0.0.0.0 --port 8000
+
+---
 ## 📖 Documentation
 
 ### API Endpoints
