@@ -347,10 +347,8 @@ For complete API documentation, visit `/api/docs/` after starting the server.
 ## 📞 Contact
 
 - **Project Link**: https://github.com/AgorAI-Hackathon/IncidAI
-- **Email**: chaimaekaz05@gmail.com
--  **Email** : fatima.ezzahra.lag@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/chaimae-kazoury-040715238/
-- **LinkedIn**:www.linkedin.com/in/lagdem-fatima-e 
+- **Email**: chaimaekaz05@gmail.com && fatima.ezzahra.lag@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/chaimae-kazoury-040715238/ && www.linkedin.com/in/lagdem-fatima-e 
 
 ---
 
